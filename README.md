@@ -96,8 +96,7 @@ The PDF-to-Prompt script provides a convenient way to automate the process of ex
 
 
 ### About me
-
-My passions lie in Network Engineering, Cloud Computing, Automation, and impacting people's lives. I'm fortunate to weave all these elements together in my role as a Developer Advocate. On GitHub, I share my ongoing learning journey and the projects I'm building. Don't hesitate to reach out for a friendly hello or to ask any questions!
+My passions are Network Engineering, Cloud Computing, Automation, and helping others. I'm lucky to combine these as a Developer Advocate. On GitHub, I document my learning and projects. Don't hesitate to connect, say hello, or ask questions!
 
 My hangouts:
 - [LinkedIn](https://www.linkedin.com/in/duanlightfoot/)
